@@ -11,10 +11,9 @@ Este es un proyecto web para realizar un sorteo de "Amigo Secreto". Permite a lo
 
 ## Cómo usarlo
 
-1. **Agregar un nombre**
-
    ![Imagen referencial 1](https://github.com/user-attachments/assets/8be75c36-c28a-4617-bb13-91fbb0993ded)
 
+1. **Agregar un nombre**
    Escribe el nombre de un amigo en el campo de texto y haz clic en el botón "Añadir". Los nombres se agregarán a la lista visible.
 
    ![Imagen referencial 2](https://github.com/user-attachments/assets/01834390-c9d7-4fac-bf1a-9c07a9e37a52)
@@ -29,14 +28,14 @@ Este es un proyecto web para realizar un sorteo de "Amigo Secreto". Permite a lo
 
    ![Imagen referencial 4](https://github.com/user-attachments/assets/7cf6c6fb-acc2-4447-af10-044f2a25ec94)
 
-## Tecnologías utilizadas 🛠️
+## Tecnologías utilizadas
 
 - **HTML**: Estructura básica de la página web.
 - **CSS**: Diseño y estilo visual de la aplicación.
 - **JavaScript**: Funcionalidades interactivas como agregar nombres y realizar el sorteo.
 - **GitHub**: Hospedaje del código y control de versiones.
 
-## Cómo ejecutar el proyecto 🖥️
+## Cómo ejecutar el proyecto
 
 1. Clona el repositorio en tu máquina local:
    ```bash
